@@ -1,2 +1,2 @@
 hello py!
-python is a language.
+python is a mechine language.
