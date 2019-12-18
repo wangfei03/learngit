@@ -1,3 +1,3 @@
 hello py!
 python is a language.
-now
+today is tuseday.
